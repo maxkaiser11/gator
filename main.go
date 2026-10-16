@@ -28,6 +28,9 @@ func main() {
 			"register": handlerRegister,
 			"reset": handlerReset,
 			"users": handlerUsers,
+			"agg": handlerAgg,
+			"addfeed": handlerAddFeed,
+			"feeds": handlerFeeds,
 		},
 	}
 
